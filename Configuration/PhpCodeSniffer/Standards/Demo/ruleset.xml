@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="Demo Coding Standard without TYPO3SniffPool">
+    <rule ref="Squiz.WhiteSpace.OperatorSpacing"/>
+</ruleset>

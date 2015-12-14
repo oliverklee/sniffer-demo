@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="Demo Coding Standard with Sniff from TYPO3SniffPool">
+    <rule ref="TYPO3SniffPool.Commenting.ClassComment"/>
+</ruleset>
