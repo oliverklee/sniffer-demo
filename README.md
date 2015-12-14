@@ -1,5 +1,6 @@
 # Sniffer demo
 
+
 This is an example for a problem with the sniffs from TYPO3SniffPool.
 
 Sniffing code with a standard that only uses Sniffs delivered by PHP_CodeSniffer itself works fine:
